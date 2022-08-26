@@ -9,3 +9,7 @@
 # Para trabajar con apuntes
 
 ## esperemos nos valla bien a todos
+
+## tuve muchos problemas
+
+# 
